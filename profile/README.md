@@ -1,6 +1,5 @@
 <div align="center">
 # Hi, I'm Jishnu Raj P P 👋
-<a href="https://jishnuraj.rocks" rel="dofollow me">Test</a>
 
 **Solutions Lead · Platform Architect · AI Engineer**
 
